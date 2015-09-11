@@ -1,0 +1,9 @@
+c:\users\netgaro\documents\visual studio 2013\Projects\ConsoleLineWriter\ConsoleLineWriter\bin\Debug\ConsoleLineWriter.exe.config
+c:\users\netgaro\documents\visual studio 2013\Projects\ConsoleLineWriter\ConsoleLineWriter\bin\Debug\ConsoleLineWriter.exe
+c:\users\netgaro\documents\visual studio 2013\Projects\ConsoleLineWriter\ConsoleLineWriter\bin\Debug\ConsoleLineWriter.pdb
+c:\users\netgaro\documents\visual studio 2013\Projects\ConsoleLineWriter\ConsoleLineWriter\obj\Debug\ConsoleLineWriter.csprojResolveAssemblyReference.cache
+c:\users\netgaro\documents\visual studio 2013\Projects\ConsoleLineWriter\ConsoleLineWriter\obj\Debug\ConsoleLineWriter.Form1.resources
+c:\users\netgaro\documents\visual studio 2013\Projects\ConsoleLineWriter\ConsoleLineWriter\obj\Debug\ConsoleLineWriter.Properties.Resources.resources
+c:\users\netgaro\documents\visual studio 2013\Projects\ConsoleLineWriter\ConsoleLineWriter\obj\Debug\ConsoleLineWriter.csproj.GenerateResource.Cache
+c:\users\netgaro\documents\visual studio 2013\Projects\ConsoleLineWriter\ConsoleLineWriter\obj\Debug\ConsoleLineWriter.exe
+c:\users\netgaro\documents\visual studio 2013\Projects\ConsoleLineWriter\ConsoleLineWriter\obj\Debug\ConsoleLineWriter.pdb
