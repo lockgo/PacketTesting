@@ -7,3 +7,6 @@ c:\users\netgaro\documents\visual studio 2013\Projects\ConsoleLineWriter\Console
 c:\users\netgaro\documents\visual studio 2013\Projects\ConsoleLineWriter\ConsoleLineWriter\obj\Debug\ConsoleLineWriter.csproj.GenerateResource.Cache
 c:\users\netgaro\documents\visual studio 2013\Projects\ConsoleLineWriter\ConsoleLineWriter\obj\Debug\ConsoleLineWriter.exe
 c:\users\netgaro\documents\visual studio 2013\Projects\ConsoleLineWriter\ConsoleLineWriter\obj\Debug\ConsoleLineWriter.pdb
+C:\Users\Netgaro\Documents\PacketTesting\ConsoleLineWriter\ConsoleLineWriter\bin\Debug\ConsoleLineWriter.exe.config
+C:\Users\Netgaro\Documents\PacketTesting\ConsoleLineWriter\ConsoleLineWriter\obj\Debug\ConsoleLineWriter.exe
+C:\Users\Netgaro\Documents\PacketTesting\ConsoleLineWriter\ConsoleLineWriter\obj\Debug\ConsoleLineWriter.pdb
